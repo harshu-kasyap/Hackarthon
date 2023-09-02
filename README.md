@@ -30,7 +30,7 @@ Before using this project, make sure you have the following prerequisites instal
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https:[//github.com/your-username/your-repo-name.git](https://github.com/harshu-kasyap/Hackarthon)
+   git clone https:[https://github.com/harshu-kasyap/Hackarthon]
 Install the required Python packages using pip:
 
 bash
